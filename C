@@ -1,0 +1,20 @@
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@ip-172-31-33-137.ec2.internal>
+#
+# On branch master
+# Changes to be committed:
+#	modified:   file1
+#	new file:   file3
+#	new file:   file4
+#	new file:   file5
+#
+# Untracked files:
+#	file10
+#	file6
+#	file7
+#	file8
+#	file9
+#	file{1...10
+#	file{1...10}
